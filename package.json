@@ -1,0 +1,20 @@
+{
+  "name": "cumlibero",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "get-eth-balances": "bin/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FreidaFarrell/cumlibero.git"
+  },
+  "author": "ArielleLind",
+  "license": "MIT",
+  "preferGlobal": "true",
+  "homepage": "https://github.com/FreidaFarrell/cumlibero.git",
+  "dependencies": {
+    "args": "^5.0.0",
+    "request": "^2.88.0"
+  }
+}
